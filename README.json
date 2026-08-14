@@ -1,0 +1,298 @@
+{
+  "items": [
+    {
+      "description": "Browserify lets you in the browser by bundling up all of your dependencies.\nYou can use a node-style to organize your browser code and load modules installed by npm. Browserify will recursively analyze all the calls in your app in order to build a bundle you can serve up to the browser in a single tag.",
+      "items": [],
+      "title": "About"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T10:04:24Z",
+            "owner": "browserify",
+            "repo": "browserify",
+            "stars": 14697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T10:04:24Z",
+            "owner": "browserify",
+            "repo": "browserify",
+            "stars": 14697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T10:01:06Z",
+            "owner": "browserify",
+            "repo": "browserify-handbook",
+            "stars": 4591
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "budo",
+          "description": "Dev server for rapid prototyping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-30T10:40:36Z",
+            "owner": "mattdesl",
+            "repo": "budo",
+            "stars": 2169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beefy",
+          "description": "Local development server that aims to make using browserify fast and fun.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-25T15:38:32Z",
+            "owner": "chrisdickinson",
+            "repo": "beefy",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wzrd",
+          "description": "Super minimal browserify development server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-04T22:17:27Z",
+            "owner": "max-mapper",
+            "repo": "wzrd",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "Development Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "watchify",
+          "description": "Watch mode for browserify builds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T09:59:06Z",
+            "owner": "browserify",
+            "repo": "watchify",
+            "stars": 1785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "persistify",
+          "description": "Wrapper around to make incremental builds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-18T21:31:02Z",
+            "owner": "royriojas",
+            "repo": "persistify",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Watchers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sheetify",
+          "description": "Modular CSS bundler for browserify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-19T11:16:28Z",
+            "owner": "stackcss",
+            "repo": "sheetify",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-modulesify",
+          "description": "Browserify plugin to load CSS Modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-02T09:18:06Z",
+            "owner": "css-modules",
+            "repo": "css-modulesify",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parcelify",
+          "description": "Add css to your npm modules consumed with browserify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-24T13:25:47Z",
+            "owner": "rotundasoftware",
+            "repo": "parcelify",
+            "stars": 250
+          }
+        }
+      ],
+      "title": "CSS bundlers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "babelify",
+          "description": "Browserify transform for babel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-06T15:16:27Z",
+            "owner": "babel",
+            "repo": "babelify",
+            "stars": 1677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brfs",
+          "description": "and static asset browserify transform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T10:04:32Z",
+            "owner": "browserify",
+            "repo": "brfs",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aliasify",
+          "description": "Remap require calls at build time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2016-12-01T22:50:53Z",
+            "owner": "benbria",
+            "repo": "aliasify",
+            "stars": 203
+          }
+        }
+      ],
+      "title": "Transforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "buffer",
+          "description": "The module from node.js, for the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-28T00:33:50Z",
+            "owner": "feross",
+            "repo": "buffer",
+            "stars": 1888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stream-browserify",
+          "description": "The module from node core, for browsers!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T09:59:22Z",
+            "owner": "browserify",
+            "repo": "stream-browserify",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-browserify",
+          "description": "Port of node's module to the browser.",
+          "children": []
+        }
+      ],
+      "title": "Node in the Browser"
+    },
+    {
+      "description": "Contributions welcome! Please read the contributing guidelines before getting started.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "The browserify logo is by substack.\nAll other content is released to the public domain under CC0-1.0.\n",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:49:55.076Z",
+    "original_repository": "browserify/awesome-browserify",
+    "original_repository_sha": "185b31da0995d9fe9a20f56add08c22406ed5be9",
+    "enhanced_repository": "enhansome/enhansome-browserify",
+    "enhanced_repository_description": null,
+    "title": "Awesome Browserify with stars"
+  }
+}
