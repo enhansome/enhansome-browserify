@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,697 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,699 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,8 +32,8 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,697 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,697 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,699 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,699 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
 * [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,591 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
@@ -77,7 +77,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Development Servers
 
 * [budo](https://github.com/mattdesl/budo) ⭐ 2,169 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
-* [beefy](https://github.com/chrisdickinson/beefy) ⭐ 799 | 🐛 46 | 🌐 JavaScript | 📅 2017-09-25 - Local development server that aims to make using browserify fast and fun.
+* [beefy](https://github.com/chrisdickinson/beefy) ⭐ 796 | 🐛 46 | 🌐 JavaScript | 📅 2017-09-25 - Local development server that aims to make using browserify fast and fun.
 * [wzrd](https://github.com/maxogden/wzrd) ⭐ 249 | 🐛 7 | 🌐 JavaScript | 📅 2020-09-04 - Super minimal browserify development server.
 
 ### Plugins
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
