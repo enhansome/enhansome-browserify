@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,700 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,701 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,8 +32,8 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,700 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,700 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,701 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,701 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21
 * [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,591 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
@@ -110,8 +110,8 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Production Tools
 
-* [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 * [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,084 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
+* [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 
 ## Contributing
 
