@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "browser-side require() the node.js way",
+            "homepage": "http://browserify.org/",
             "id": 931039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-21T10:04:24Z",
+            "open_issues": 380,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14701
+            "stars": 14700,
+            "topics": [
+              "browser",
+              "bundler",
+              "commonjs",
+              "javascript",
+              "module-bundler",
+              "modules"
+            ]
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "browser-side require() the node.js way",
+            "homepage": "http://browserify.org/",
             "id": 931039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-21T10:04:24Z",
+            "open_issues": 380,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14701
+            "stars": 14700,
+            "topics": [
+              "browser",
+              "bundler",
+              "commonjs",
+              "javascript",
+              "module-bundler",
+              "modules"
+            ]
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
         },
@@ -42,12 +66,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "how to build modular applications with browserify",
+            "homepage": null,
             "id": 19901927,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-21T10:01:06Z",
+            "open_issues": 19,
             "owner": "browserify",
             "repo": "browserify-handbook",
-            "stars": 4591
+            "stars": 4591,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
         }
@@ -66,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":clapper: a dev server for rapid prototyping",
+                "homepage": null,
                 "id": 30808587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-30T10:40:36Z",
+                "open_issues": 41,
                 "owner": "mattdesl",
                 "repo": "budo",
-                "stars": 2169
+                "stars": 2169,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -82,12 +116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "local development server that aims to make using browserify fast and fun",
+                "homepage": "http://didact.us/beefy/",
                 "id": 8998597,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-09-25T15:38:32Z",
+                "open_issues": 46,
                 "owner": "chrisdickinson",
                 "repo": "beefy",
-                "stars": 796
+                "stars": 796,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -98,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super minimal browserify development server",
+                "homepage": null,
                 "id": 28460544,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-04T22:17:27Z",
+                "open_issues": 7,
                 "owner": "max-mapper",
                 "repo": "wzrd",
-                "stars": 249
+                "stars": 249,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -121,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hot Module Replacement plugin for Browserify",
+                "homepage": null,
                 "id": 40880741,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T21:41:25Z",
+                "open_issues": 24,
                 "owner": "Macil",
                 "repo": "browserify-hmr",
-                "stars": 372
+                "stars": 372,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -144,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "watch mode for browserify builds",
+                "homepage": null,
                 "id": 10379106,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-21T09:59:06Z",
+                "open_issues": 37,
                 "owner": "browserify",
                 "repo": "watchify",
-                "stars": 1785
+                "stars": 1785,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -160,12 +214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a wrapper around `browserify` to make incremental builds ",
+                "homepage": null,
                 "id": 38946691,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-18T21:31:02Z",
+                "open_issues": 2,
                 "owner": "royriojas",
                 "repo": "persistify",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -183,12 +242,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sparkles: Modular CSS bundler for browserify",
+                "homepage": null,
                 "id": 16714812,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-19T11:16:28Z",
+                "open_issues": 18,
                 "owner": "stackcss",
                 "repo": "sheetify",
-                "stars": 445
+                "stars": 445,
+                "topics": [
+                  "browserify",
+                  "bundler",
+                  "css"
+                ]
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -199,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browserify plugin to load CSS Modules",
+                "homepage": null,
                 "id": 36786893,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-02T09:18:06Z",
+                "open_issues": 30,
                 "owner": "css-modules",
                 "repo": "css-modulesify",
-                "stars": 402
+                "stars": 402,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -215,12 +288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add css to your npm modules consumed with browserify.",
+                "homepage": null,
                 "id": 17040839,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-02-24T13:25:47Z",
+                "open_issues": 11,
                 "owner": "rotundasoftware",
                 "repo": "parcelify",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -238,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browserify transform for Babel",
+                "homepage": null,
                 "id": 24835467,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-06T15:16:27Z",
+                "open_issues": 12,
                 "owner": "babel",
                 "repo": "babelify",
-                "stars": 1677
+                "stars": 1677,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -254,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "browserify fs.readFileSync() static asset inliner",
+                "homepage": null,
                 "id": 8479439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-21T10:04:32Z",
+                "open_issues": 23,
                 "owner": "browserify",
                 "repo": "brfs",
-                "stars": 556
+                "stars": 556,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -270,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rewrite require calls in browserify modules.",
+                "homepage": null,
                 "id": 15322001,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-12-01T22:50:53Z",
+                "open_issues": 11,
                 "owner": "benbria",
                 "repo": "aliasify",
-                "stars": 203
+                "stars": 203,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -293,12 +386,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The buffer module from node.js, for the browser.",
+                "homepage": null,
                 "id": 14494363,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-28T00:33:50Z",
+                "open_issues": 57,
                 "owner": "feross",
                 "repo": "buffer",
-                "stars": 1890
+                "stars": 1890,
+                "topics": [
+                  "browser",
+                  "browserify",
+                  "buffer",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             },
@@ -309,12 +413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the stream module from node core for browsers",
+                "homepage": null,
                 "id": 14904540,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-21T09:59:22Z",
+                "open_issues": 6,
                 "owner": "browserify",
                 "repo": "stream-browserify",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -332,12 +441,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":station: - friendly web compiler",
+                "homepage": null,
                 "id": 48496835,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-19T12:03:36Z",
+                "open_issues": 55,
                 "owner": "choojs",
                 "repo": "bankai",
-                "stars": 1084
+                "stars": 1084,
+                "topics": [
+                  "assets",
+                  "browserify",
+                  "compile",
+                  "css",
+                  "css-in-js",
+                  "modular",
+                  "server",
+                  "sheetify"
+                ]
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
             }
@@ -351,15 +474,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:20:24.187Z",
+    "last_updated": "2026-08-29T05:00:19.806Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
+      "homepage": null,
       "id": 70184715,
       "language": null,
+      "license": null,
       "last_commit": "2017-01-04T23:45:44Z",
+      "open_issues": 0,
       "owner": "browserify",
       "repo": "awesome-browserify",
-      "stars": 99
+      "stars": 99,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "browserify",
+        "list",
+        "meta"
+      ]
     },
     "original_repository_sha": "185b31da0995d9fe9a20f56add08c22406ed5be9",
     "enhanced_repository": "enhansome/enhansome-browserify",
