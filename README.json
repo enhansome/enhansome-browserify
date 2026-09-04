@@ -19,7 +19,7 @@
             "open_issues": 380,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14699,
+            "stars": 14697,
             "topics": [
               "browser",
               "bundler",
@@ -47,7 +47,7 @@
             "open_issues": 380,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14699,
+            "stars": 14697,
             "topics": [
               "browser",
               "bundler",
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:27:47.506Z",
+    "last_updated": "2026-09-04T06:30:47.178Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
