@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-21T10:04:24Z",
-            "open_issues": 382,
+            "open_issues": 388,
             "owner": "browserify",
             "repo": "browserify",
             "stars": 14697,
@@ -44,7 +44,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-21T10:04:24Z",
-            "open_issues": 382,
+            "open_issues": 388,
             "owner": "browserify",
             "repo": "browserify",
             "stars": 14697,
@@ -75,7 +75,7 @@
             "open_issues": 19,
             "owner": "browserify",
             "repo": "browserify-handbook",
-            "stars": 4591,
+            "stars": 4592,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
@@ -104,7 +104,7 @@
                 "open_issues": 41,
                 "owner": "mattdesl",
                 "repo": "budo",
-                "stars": 2169,
+                "stars": 2170,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -325,7 +325,7 @@
                 "open_issues": 12,
                 "owner": "babel",
                 "repo": "babelify",
-                "stars": 1677,
+                "stars": 1676,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:17:32.672Z",
+    "last_updated": "2026-09-06T06:28:29.908Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
