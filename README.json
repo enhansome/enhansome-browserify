@@ -19,7 +19,7 @@
             "open_issues": 388,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14696,
+            "stars": 14694,
             "topics": [
               "browser",
               "bundler",
@@ -47,7 +47,7 @@
             "open_issues": 388,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14696,
+            "stars": 14694,
             "topics": [
               "browser",
               "bundler",
@@ -75,7 +75,7 @@
             "open_issues": 19,
             "owner": "browserify",
             "repo": "browserify-handbook",
-            "stars": 4592,
+            "stars": 4591,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
@@ -104,7 +104,7 @@
                 "open_issues": 41,
                 "owner": "mattdesl",
                 "repo": "budo",
-                "stars": 2169,
+                "stars": 2168,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -174,7 +174,7 @@
                 "open_issues": 24,
                 "owner": "Macil",
                 "repo": "browserify-hmr",
-                "stars": 372,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -202,7 +202,7 @@
                 "open_issues": 37,
                 "owner": "browserify",
                 "repo": "watchify",
-                "stars": 1785,
+                "stars": 1784,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -251,7 +251,7 @@
                 "open_issues": 18,
                 "owner": "stackcss",
                 "repo": "sheetify",
-                "stars": 445,
+                "stars": 444,
                 "topics": [
                   "browserify",
                   "bundler",
@@ -297,7 +297,7 @@
                 "open_issues": 11,
                 "owner": "rotundasoftware",
                 "repo": "parcelify",
-                "stars": 250,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -367,7 +367,7 @@
                 "open_issues": 11,
                 "owner": "benbria",
                 "repo": "aliasify",
-                "stars": 203,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:38:11.425Z",
+    "last_updated": "2026-09-10T06:37:05.678Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",

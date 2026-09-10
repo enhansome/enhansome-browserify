@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,696 | 🐛 388 | 🌐 JavaScript | 📅 2024-12-21 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,694 | 🐛 388 | 🌐 JavaScript | 📅 2024-12-21 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,9 +32,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,696 | 🐛 388 | 🌐 JavaScript | 📅 2024-12-21
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,696 | 🐛 388 | 🌐 JavaScript | 📅 2024-12-21
-* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,592 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,694 | 🐛 388 | 🌐 JavaScript | 📅 2024-12-21
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,694 | 🐛 388 | 🌐 JavaScript | 📅 2024-12-21
+* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,591 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
 ## Community Resources
@@ -46,7 +46,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ## Tutorials
 
 * [Hello World with Browserify](http://browserify.org/#middle-section)
-* [Browserify Adventure](https://github.com/workshopper/browserify-adventure) ⭐ 143 | 🐛 12 | 🌐 JavaScript | 📅 2016-06-20
+* [Browserify Adventure](https://github.com/workshopper/browserify-adventure) ⭐ 141 | 🐛 12 | 🌐 JavaScript | 📅 2016-06-20
 * [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
 * [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
 
@@ -76,30 +76,30 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-* [budo](https://github.com/mattdesl/budo) ⭐ 2,169 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
+* [budo](https://github.com/mattdesl/budo) ⭐ 2,168 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
 * [beefy](https://github.com/chrisdickinson/beefy) ⭐ 796 | 🐛 46 | 🌐 JavaScript | 📅 2017-09-25 - Local development server that aims to make using browserify fast and fun.
 * [wzrd](https://github.com/maxogden/wzrd) ⭐ 249 | 🐛 7 | 🌐 JavaScript | 📅 2020-09-04 - Super minimal browserify development server.
 
 ### Plugins
 
-* [browserify-hmr](https://github.com/AgentME/browserify-hmr) ⭐ 372 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-04 - Hot Module Replacement plugin for Browserify.
+* [browserify-hmr](https://github.com/AgentME/browserify-hmr) ⭐ 368 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-04 - Hot Module Replacement plugin for Browserify.
 
 ### Watchers
 
-* [watchify](https://github.com/substack/watchify) ⭐ 1,785 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
+* [watchify](https://github.com/substack/watchify) ⭐ 1,784 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
 * [persistify](https://github.com/royriojas/persistify) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-18 - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
 
-* [sheetify](https://github.com/stackcss/sheetify) ⭐ 445 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
+* [sheetify](https://github.com/stackcss/sheetify) ⭐ 444 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
 * [css-modulesify](https://github.com/css-modules/css-modulesify) ⭐ 402 | 🐛 30 | 🌐 JavaScript | 📅 2019-11-02 - Browserify plugin to load CSS Modules.
-* [parcelify](https://github.com/rotundasoftware/parcelify) ⭐ 250 | 🐛 11 | 🌐 JavaScript | 📅 2020-02-24 - Add css to your npm modules consumed with browserify.
+* [parcelify](https://github.com/rotundasoftware/parcelify) ⭐ 249 | 🐛 11 | 🌐 JavaScript | 📅 2020-02-24 - Add css to your npm modules consumed with browserify.
 
 ### Transforms
 
 * [babelify](https://github.com/babel/babelify) ⭐ 1,676 | 🐛 12 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
 * [brfs](https://github.com/substack/brfs) ⭐ 556 | 🐛 23 | 🌐 JavaScript | 📅 2024-12-21 - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
-* [aliasify](https://github.com/benbria/aliasify) ⭐ 203 | 🐛 11 | 🌐 CoffeeScript | 📅 2016-12-01 - Remap require calls at build time.
+* [aliasify](https://github.com/benbria/aliasify) ⭐ 202 | 🐛 11 | 🌐 CoffeeScript | 📅 2016-12-01 - Remap require calls at build time.
 
 ### Node in the Browser
 
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
