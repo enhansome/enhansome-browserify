@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-21T10:04:24Z",
-            "open_issues": 388,
+            "open_issues": 389,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14694,
+            "stars": 14695,
             "topics": [
               "browser",
               "bundler",
@@ -44,10 +44,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-21T10:04:24Z",
-            "open_issues": 388,
+            "open_issues": 389,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14694,
+            "stars": 14695,
             "topics": [
               "browser",
               "bundler",
@@ -297,7 +297,7 @@
                 "open_issues": 11,
                 "owner": "rotundasoftware",
                 "repo": "parcelify",
-                "stars": 249,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:37:05.678Z",
+    "last_updated": "2026-09-11T06:36:30.561Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
