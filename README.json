@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-18T17:19:07Z",
-            "open_issues": 387,
+            "open_issues": 386,
             "owner": "browserify",
             "repo": "browserify",
             "stars": 14695,
@@ -44,7 +44,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-18T17:19:07Z",
-            "open_issues": 387,
+            "open_issues": 386,
             "owner": "browserify",
             "repo": "browserify",
             "stars": 14695,
@@ -75,7 +75,7 @@
             "open_issues": 19,
             "owner": "browserify",
             "repo": "browserify-handbook",
-            "stars": 4591,
+            "stars": 4590,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:33:41.080Z",
+    "last_updated": "2026-09-20T06:56:20.990Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
