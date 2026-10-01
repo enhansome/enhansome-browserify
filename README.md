@@ -76,7 +76,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-* [budo](https://github.com/mattdesl/budo) ⭐ 2,167 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
+* [budo](https://github.com/mattdesl/budo) ⭐ 2,166 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
 * [beefy](https://github.com/chrisdickinson/beefy) ⭐ 796 | 🐛 46 | 🌐 JavaScript | 📅 2017-09-25 - Local development server that aims to make using browserify fast and fun.
 * [wzrd](https://github.com/maxogden/wzrd) ⭐ 250 | 🐛 7 | 🌐 JavaScript | 📅 2020-09-04 - Super minimal browserify development server.
 
@@ -91,7 +91,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### CSS bundlers
 
-* [sheetify](https://github.com/stackcss/sheetify) ⭐ 444 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
+* [sheetify](https://github.com/stackcss/sheetify) ⭐ 443 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
 * [css-modulesify](https://github.com/css-modules/css-modulesify) ⭐ 402 | 🐛 30 | 🌐 JavaScript | 📅 2019-11-02 - Browserify plugin to load CSS Modules.
 * [parcelify](https://github.com/rotundasoftware/parcelify) ⭐ 248 | 🐛 11 | 🌐 JavaScript | 📅 2020-02-24 - Add css to your npm modules consumed with browserify.
 
@@ -110,7 +110,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Production Tools
 
-* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,084 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
+* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,083 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
 * [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 
 ## Contributing
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
