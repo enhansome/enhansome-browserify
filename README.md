@@ -34,7 +34,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 * [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,694 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
 * [Repo](https://github.com/substack/node-browserify) ⭐ 14,694 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
-* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,588 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
+* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,586 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
 ## Community Resources
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

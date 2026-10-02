@@ -75,7 +75,7 @@
             "open_issues": 19,
             "owner": "browserify",
             "repo": "browserify-handbook",
-            "stars": 4588,
+            "stars": 4586,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T07:44:43.862Z",
+    "last_updated": "2026-10-02T07:29:13.741Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
