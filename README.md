@@ -92,7 +92,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### CSS bundlers
 
 * [sheetify](https://github.com/stackcss/sheetify) ⭐ 443 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
-* [css-modulesify](https://github.com/css-modules/css-modulesify) ⭐ 402 | 🐛 30 | 🌐 JavaScript | 📅 2019-11-02 - Browserify plugin to load CSS Modules.
+* [css-modulesify](https://github.com/css-modules/css-modulesify) ⭐ 401 | 🐛 30 | 🌐 JavaScript | 📅 2019-11-02 - Browserify plugin to load CSS Modules.
 * [parcelify](https://github.com/rotundasoftware/parcelify) ⭐ 248 | 🐛 11 | 🌐 JavaScript | 📅 2020-02-24 - Add css to your npm modules consumed with browserify.
 
 ### Transforms
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
