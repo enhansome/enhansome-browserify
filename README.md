@@ -103,7 +103,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Node in the Browser
 
-* [buffer](https://github.com/feross/buffer) ⭐ 1,891 | 🐛 58 | 🌐 JavaScript | 📅 2025-10-28 - The `buffer` module from node.js, for the browser.
+* [buffer](https://github.com/feross/buffer) ⭐ 1,891 | 🐛 59 | 🌐 JavaScript | 📅 2025-10-28 - The `buffer` module from node.js, for the browser.
 * [stream-browserify](https://github.com/substack/stream-browserify) ⭐ 105 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-21 - The `stream` module from node core, for browsers!
 * [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 * [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
