@@ -86,7 +86,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-* [watchify](https://github.com/substack/watchify) ⭐ 1,784 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
+* [watchify](https://github.com/substack/watchify) ⭐ 1,783 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
 * [persistify](https://github.com/royriojas/persistify) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-18 - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
@@ -110,7 +110,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Production Tools
 
-* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,083 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
+* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,084 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
 * [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 
 ## Contributing
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

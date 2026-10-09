@@ -202,7 +202,7 @@
                 "open_issues": 37,
                 "owner": "browserify",
                 "repo": "watchify",
-                "stars": 1784,
+                "stars": 1783,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -450,7 +450,7 @@
                 "open_issues": 55,
                 "owner": "choojs",
                 "repo": "bankai",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": [
                   "assets",
                   "browserify",
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:57:30.997Z",
+    "last_updated": "2026-10-09T07:58:19.374Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
