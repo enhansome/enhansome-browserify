@@ -19,7 +19,7 @@
             "open_issues": 387,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14696,
+            "stars": 14695,
             "topics": [
               "browser",
               "bundler",
@@ -47,7 +47,7 @@
             "open_issues": 387,
             "owner": "browserify",
             "repo": "browserify",
-            "stars": 14696,
+            "stars": 14695,
             "topics": [
               "browser",
               "bundler",
@@ -75,7 +75,7 @@
             "open_issues": 19,
             "owner": "browserify",
             "repo": "browserify-handbook",
-            "stars": 4585,
+            "stars": 4584,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:24.187Z"
@@ -450,7 +450,7 @@
                 "open_issues": 55,
                 "owner": "choojs",
                 "repo": "bankai",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": [
                   "assets",
                   "browserify",
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:58:19.374Z",
+    "last_updated": "2026-10-10T07:42:42.895Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",

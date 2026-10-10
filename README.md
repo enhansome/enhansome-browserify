@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,696 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,695 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,9 +32,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,696 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,696 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
-* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,585 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,695 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,695 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
+* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,584 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
 ## Community Resources
@@ -110,7 +110,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Production Tools
 
-* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,084 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
+* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,085 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
 * [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 
 ## Contributing
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
