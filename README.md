@@ -97,7 +97,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-* [babelify](https://github.com/babel/babelify) ⭐ 1,676 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
+* [babelify](https://github.com/babel/babelify) ⭐ 1,675 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
 * [brfs](https://github.com/substack/brfs) ⭐ 556 | 🐛 23 | 🌐 JavaScript | 📅 2024-12-21 - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
 * [aliasify](https://github.com/benbria/aliasify) ⭐ 203 | 🐛 11 | 🌐 CoffeeScript | 📅 2016-12-01 - Remap require calls at build time.
 
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
