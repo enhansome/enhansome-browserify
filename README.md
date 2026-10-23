@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,694 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,693 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,9 +32,9 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,694 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,694 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
-* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,584 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,693 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,693 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21
+* [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,583 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
 ## Community Resources
@@ -82,11 +82,11 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Plugins
 
-* [browserify-hmr](https://github.com/AgentME/browserify-hmr) ⭐ 369 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-04 - Hot Module Replacement plugin for Browserify.
+* [browserify-hmr](https://github.com/AgentME/browserify-hmr) ⭐ 368 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-04 - Hot Module Replacement plugin for Browserify.
 
 ### Watchers
 
-* [watchify](https://github.com/substack/watchify) ⭐ 1,784 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
+* [watchify](https://github.com/substack/watchify) ⭐ 1,783 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
 * [persistify](https://github.com/royriojas/persistify) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-18 - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
@@ -97,13 +97,13 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-* [babelify](https://github.com/babel/babelify) ⭐ 1,675 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
+* [babelify](https://github.com/babel/babelify) ⭐ 1,674 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
 * [brfs](https://github.com/substack/brfs) ⭐ 556 | 🐛 23 | 🌐 JavaScript | 📅 2024-12-21 - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
 * [aliasify](https://github.com/benbria/aliasify) ⭐ 203 | 🐛 11 | 🌐 CoffeeScript | 📅 2016-12-01 - Remap require calls at build time.
 
 ### Node in the Browser
 
-* [buffer](https://github.com/feross/buffer) ⭐ 1,891 | 🐛 59 | 🌐 JavaScript | 📅 2025-10-28 - The `buffer` module from node.js, for the browser.
+* [buffer](https://github.com/feross/buffer) ⭐ 1,892 | 🐛 59 | 🌐 JavaScript | 📅 2025-10-28 - The `buffer` module from node.js, for the browser.
 * [stream-browserify](https://github.com/substack/stream-browserify) ⭐ 105 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-21 - The `stream` module from node core, for browsers!
 * [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 * [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
