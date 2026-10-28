@@ -86,18 +86,18 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-* [watchify](https://github.com/substack/watchify) ⭐ 1,783 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
+* [watchify](https://github.com/substack/watchify) ⭐ 1,782 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
 * [persistify](https://github.com/royriojas/persistify) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-18 - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
 
-* [sheetify](https://github.com/stackcss/sheetify) ⭐ 444 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
+* [sheetify](https://github.com/stackcss/sheetify) ⭐ 443 | 🐛 18 | 🌐 JavaScript | 📅 2020-09-19 - Modular CSS bundler for browserify.
 * [css-modulesify](https://github.com/css-modules/css-modulesify) ⭐ 401 | 🐛 30 | 🌐 JavaScript | 📅 2019-11-02 - Browserify plugin to load CSS Modules.
 * [parcelify](https://github.com/rotundasoftware/parcelify) ⭐ 249 | 🐛 11 | 🌐 JavaScript | 📅 2020-02-24 - Add css to your npm modules consumed with browserify.
 
 ### Transforms
 
-* [babelify](https://github.com/babel/babelify) ⭐ 1,674 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
+* [babelify](https://github.com/babel/babelify) ⭐ 1,673 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
 * [brfs](https://github.com/substack/brfs) ⭐ 556 | 🐛 23 | 🌐 JavaScript | 📅 2024-12-21 - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
 * [aliasify](https://github.com/benbria/aliasify) ⭐ 203 | 🐛 11 | 🌐 CoffeeScript | 📅 2016-12-01 - Remap require calls at build time.
 
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
