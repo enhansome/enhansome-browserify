@@ -395,7 +395,7 @@
                 "open_issues": 59,
                 "owner": "feross",
                 "repo": "buffer",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "browser",
                   "browserify",
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:38:44.904Z",
+    "last_updated": "2026-10-30T07:42:24.124Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",
