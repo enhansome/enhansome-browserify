@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,692 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,691 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,8 +32,8 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,692 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,692 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,691 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,691 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24
 * [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,583 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
@@ -86,7 +86,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Watchers
 
-* [watchify](https://github.com/substack/watchify) ⭐ 1,781 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
+* [watchify](https://github.com/substack/watchify) ⭐ 1,780 | 🐛 37 | 🌐 JavaScript | 📅 2024-12-21 - Watch mode for browserify builds.
 * [persistify](https://github.com/royriojas/persistify) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-18 - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
