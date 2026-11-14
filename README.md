@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
