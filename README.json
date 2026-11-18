@@ -104,7 +104,7 @@
                 "open_issues": 41,
                 "owner": "mattdesl",
                 "repo": "budo",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:24.187Z"
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:42:40.203Z",
+    "last_updated": "2026-11-18T09:03:24.945Z",
     "original_repository_info": {
       "archived": false,
       "description": ":crystal_ball: A curated list of awesome Browserify resources, libraries, and tools.",

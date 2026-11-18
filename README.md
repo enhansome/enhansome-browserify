@@ -76,7 +76,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Development Servers
 
-* [budo](https://github.com/mattdesl/budo) ⭐ 2,165 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
+* [budo](https://github.com/mattdesl/budo) ⭐ 2,166 | 🐛 41 | 🌐 JavaScript | 📅 2022-08-30 - Dev server for rapid prototyping.
 * [beefy](https://github.com/chrisdickinson/beefy) ⭐ 796 | 🐛 46 | 🌐 JavaScript | 📅 2017-09-25 - Local development server that aims to make using browserify fast and fun.
 * [wzrd](https://github.com/maxogden/wzrd) ⭐ 250 | 🐛 7 | 🌐 JavaScript | 📅 2020-09-04 - Super minimal browserify development server.
 
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
