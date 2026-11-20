@@ -2,7 +2,7 @@
 
 # Awesome Browserify with stars
 
-> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,690 | 🐛 388 | 🌐 JavaScript | 📅 2026-10-24 resources, libraries, and tools.
+> :crystal\_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) ⭐ 14,689 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24 resources, libraries, and tools.
 
 Please help improve this list by [contributing](contributing.md)!
 
@@ -32,8 +32,8 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Official Resources
 
-* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,690 | 🐛 388 | 🌐 JavaScript | 📅 2026-10-24
-* [Repo](https://github.com/substack/node-browserify) ⭐ 14,690 | 🐛 388 | 🌐 JavaScript | 📅 2026-10-24
+* [Docs](https://github.com/substack/node-browserify#usage) ⭐ 14,689 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24
+* [Repo](https://github.com/substack/node-browserify) ⭐ 14,689 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24
 * [Handbook](https://github.com/substack/browserify-handbook) ⭐ 4,582 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-21
 * [Website](http://browserify.org/)
 
@@ -97,20 +97,20 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ### Transforms
 
-* [babelify](https://github.com/babel/babelify) ⭐ 1,672 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
+* [babelify](https://github.com/babel/babelify) ⭐ 1,673 | 🐛 14 | 🌐 JavaScript | 📅 2021-08-06 - Browserify transform for babel.
 * [brfs](https://github.com/substack/brfs) ⭐ 556 | 🐛 23 | 🌐 JavaScript | 📅 2024-12-21 - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
 * [aliasify](https://github.com/benbria/aliasify) ⭐ 203 | 🐛 11 | 🌐 CoffeeScript | 📅 2016-12-01 - Remap require calls at build time.
 
 ### Node in the Browser
 
-* [buffer](https://github.com/feross/buffer) ⭐ 1,896 | 🐛 59 | 🌐 JavaScript | 📅 2025-10-28 - The `buffer` module from node.js, for the browser.
+* [buffer](https://github.com/feross/buffer) ⭐ 1,895 | 🐛 59 | 🌐 JavaScript | 📅 2025-10-28 - The `buffer` module from node.js, for the browser.
 * [stream-browserify](https://github.com/substack/stream-browserify) ⭐ 105 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-21 - The `stream` module from node core, for browsers!
 * [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 * [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ### Production Tools
 
-* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,086 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
+* [bankai](https://github.com/yoshuawuyts/bankai) ⭐ 1,085 | 🐛 55 | 🌐 JavaScript | 📅 2022-05-19 - DIY asset server. Serves HTML, CSS and JS as streams.
 * [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 
 ## Contributing
@@ -127,4 +127,4 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
